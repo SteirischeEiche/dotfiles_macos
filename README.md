@@ -78,3 +78,7 @@ killall Dock
 - First aliases created
 - Simplified prompt and added right prompt
 - Function `mkcd` created
+
+## Git setup
+- Command Line Developer Tools installed
+- Entered name and email in Git configuration file
