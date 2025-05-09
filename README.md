@@ -74,10 +74,6 @@ killall Dock
 ```
 
 ## Dotfiles
-### `zshrc`
-- First aliases created
-- Simplified prompt and added right prompt
-- Function `mkcd` created
 
 ## Git setup
 - Installed command line developer tools
