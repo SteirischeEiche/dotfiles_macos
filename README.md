@@ -81,4 +81,10 @@ killall Dock
 
 ## Git setup
 - Command Line Developer Tools installed
-- Entered name and email in Git configuration file
+- Entered name and email in git configuration file
+
+## SSH
+- Key pair created
+- Set environment variables for the agent
+- SSH configuration file for agents set
+- Key added to the agent
