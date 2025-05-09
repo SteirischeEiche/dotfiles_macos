@@ -72,3 +72,9 @@ defaults write com.apple.dock "orientation" -string "left"
 defaults write com.apple.dock persistent-apps -array
 killall Dock
 ```
+
+## Dotfiles
+### `zshrc`
+- First aliases created
+- Simplified prompt and added right prompt
+- Function `mkcd` created
