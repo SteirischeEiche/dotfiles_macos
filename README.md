@@ -31,3 +31,14 @@ I'm learning about dotfiles at [dotfiles.eieio.xyz](http://dotfiles.eieio.xyz).
 - Hard disk usage limit: none
 - Other options (such as backup frequency) left at default values
 - Trying to restore a test file: it works
+
+### Privacy & Security
+- Granted Terminal full disk access
+
+### Terminal settings
+- Basic profile duplicated
+- Font size to 20
+- Background color set to RGB: 15,15,15
+
+### Dock
+- Show and hide dock automatically: on
