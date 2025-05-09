@@ -42,3 +42,33 @@ I'm learning about dotfiles at [dotfiles.eieio.xyz](http://dotfiles.eieio.xyz).
 
 ### Dock
 - Show and hide dock automatically: on
+
+## Changes made via CLI
+### Screen shots
+```bash
+# Thumbmail deactivated
+defaults write com.apple.screencapture "show-thumbnail" -bool "false"
+killall SystemUIServer
+```
+
+### Finder
+```bash
+# Use list view
+defaults write com.apple.finder FXPreferredViewStyle -string "Nlsv"
+# Show path bar
+defaults write com.apple.finder ShowPathbar -bool true
+# Show filename extensions
+defaults write NSGlobalDomain AppleShowAllExtensions -bool true
+# Keep folders on top when sorting by name
+defaults write com.apple.finder _FXSortFoldersFirst -bool true
+killall Finder
+```
+
+### Dock
+```bash
+# Position on the left
+defaults write com.apple.dock "orientation" -string "left"
+# Remove all apps that are in the dock
+defaults write com.apple.dock persistent-apps -array
+killall Dock
+```
