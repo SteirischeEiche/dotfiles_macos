@@ -80,11 +80,14 @@ killall Dock
 - Function `mkcd` created
 
 ## Git setup
-- Command Line Developer Tools installed
+- Installed command line developer tools
 - Entered name and email in git configuration file
 
 ## SSH
-- Key pair created
-- Set environment variables for the agent
-- SSH configuration file for agents set
-- Key added to the agent
+- Created key pair
+- Set environment variables for agent
+- Set SSH configuration file for agent
+- Added key to agent
+
+## Dotfiles repo setup
+- Cloned repo
