@@ -25,3 +25,9 @@ I'm learning about dotfiles at [dotfiles.eieio.xyz](http://dotfiles.eieio.xyz).
 - Touch ID disabled
 - Appearance -> dark
 - Automatically update Mac: yes
+
+### Time Machine
+- Encrypt backup: yes
+- Hard disk usage limit: none
+- Other options (such as backup frequency) left at default values
+- Trying to restore a test file: it works
