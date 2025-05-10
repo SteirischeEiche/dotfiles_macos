@@ -12,5 +12,9 @@
 # - create:
 #     - ~/Arbeit
 
-# - shell:
+- shell:
 #   - [git submodule update --init --recursive, Installing submodules]
+    -
+      command: ./test.zsh
+      stdout: true
+      stderr: true
