@@ -9,8 +9,8 @@
     ~/.vimrc:
     ~/.gitconfig:
 
-# - create:
-#     - ~/Arbeit
+- create:
+    - ~/GitHub
 
 - shell:
 #   - [git submodule update --init --recursive, Installing submodules]
