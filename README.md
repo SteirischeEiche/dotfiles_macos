@@ -87,3 +87,7 @@ killall Dock
 
 ## Dotfiles repo setup
 - Cloned repo
+
+## Keyboard
+### Special keys
+- Remap caps lock key to ESC (globally)
