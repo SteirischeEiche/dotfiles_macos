@@ -5,9 +5,9 @@
 - clean: ['~']
 
 - link:
-#     ~/.vim: vim
-    ~/.zshrc: zshrc
-    ~/.vimrc: vimrc
+    ~/.zshrc:
+    ~/.vimrc:
+    ~/.gitconfig:
 
 # - create:
 #     - ~/Arbeit
