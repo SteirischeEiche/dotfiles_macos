@@ -7,6 +7,13 @@ alias l='ls -F'
 alias ll='ls -lAFh'
 alias v='vim'
 alias x='exit'
+alias ..="cd .."
+alias ...="cd ../.."
+## Git
+alias gadd='git add'
+alias gc="git commit -m"
+alias gca="git commit -a -m"
+alias gst="git status"
 
 # Prompt(s) anpassen
 PROMPT='
