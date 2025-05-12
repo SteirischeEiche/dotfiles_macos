@@ -9,6 +9,7 @@ alias v='vim'
 alias x='exit'
 alias ..="cd .."
 alias ...="cd ../.."
+alias cat="bat"
 ## Git
 alias gadd='git add'
 alias gc="git commit -m"
