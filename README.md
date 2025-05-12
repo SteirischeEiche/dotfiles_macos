@@ -95,3 +95,5 @@ killall Dock
 
 ## Homebrew
 - Installed `tlrc`
+- Installed `httpie`
+- Installed `bat`
