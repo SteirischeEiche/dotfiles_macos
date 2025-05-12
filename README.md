@@ -97,3 +97,5 @@ killall Dock
 - Installed `tlrc`
 - Installed `httpie`
 - Installed `bat`
+- Installed `fastfetch`
+- Installed `yt-dlp`
