@@ -99,3 +99,10 @@ killall Dock
 - Installed `bat`
 - Installed `fastfetch`
 - Installed `yt-dlp`
+
+### Casks
+- Installed Librewolf
+- Had to run this in order for Librewolf to open:
+````zsh
+brew reinstall librewolf --no-quarantine
+```
