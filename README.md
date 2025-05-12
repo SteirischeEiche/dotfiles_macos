@@ -103,6 +103,6 @@ killall Dock
 ### Casks
 - Installed Librewolf
 - Had to run this in order for Librewolf to open:
-```zsh
+```bash
 brew reinstall librewolf --no-quarantine
 ```
