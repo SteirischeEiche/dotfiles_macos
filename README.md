@@ -92,3 +92,6 @@ killall Dock
 ## Keyboard
 ### Special keys
 - Remap caps lock key to ESC (globally)
+
+## Homebrew
+- Installed `tlrc`
