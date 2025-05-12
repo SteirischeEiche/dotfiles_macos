@@ -106,3 +106,7 @@ killall Dock
 ```bash
 brew reinstall librewolf --no-quarantine
 ```
+
+- Installed SelfControl
+- Starting a block installs a background object
+- Do not send reports
