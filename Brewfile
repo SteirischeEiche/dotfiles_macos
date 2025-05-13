@@ -1,14 +1,13 @@
-# Brews (Pakete)
 brew "bat"
 brew "eza"
 brew "fastfetch"
+brew "git"
 brew "httpie"
 brew "tlrc"
 brew "yt-dlp"
-
-# Casks (Apps)
 cask "alfred"
 cask "dropbox"
+cask "keepassxc"
 cask "librewolf"
 cask "selfcontrol"
 cask "vscodium"
