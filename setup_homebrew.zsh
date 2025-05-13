@@ -10,5 +10,6 @@ brew install tlrc
 brew install fastfetch
 brew install yt-dlp
 
-brew install librewolf
-brew install selfcontrol
+brew install --no-quarantine librewolf
+brew install --no-quarantine selfcontrol
+brew install --no-quarantine alfred
