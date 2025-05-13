@@ -14,8 +14,8 @@
     - ~/GitHub
 
 - shell:
-#   - [git submodule update --init --recursive, Installing submodules]
     -
-      command: ./test.zsh
+      command: ./setup_homebrew.zsh
+      stdin: true
       stdout: true
       stderr: true
