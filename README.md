@@ -8,9 +8,7 @@ I'm learning about dotfiles at [dotfiles.eieio.xyz](http://dotfiles.eieio.xyz).
 - Changed Shell to ZSH
 - Dock Preferences
 - Finder Show Path Bar
-- .zshrc
 - Git (config and SSH)
-- Homebrew Install
 
 ### macOS setup
 - Set up as a new device
