@@ -6,8 +6,10 @@ export HOMEBREW_CASK_OPTS="--no-quarantine"
 # ZSH-Optionen ändern
 
 # Aliase erstellen
-alias l='ls -F'
-alias ll='ls -lAFh'
+# alias l='ls -F'
+alias l='eza -F --group-directories-first'
+# alias ll='ls -lAFh'
+alias ll='eza -lahF --git --group-directories-first'
 alias v='vim'
 alias x='exit'
 alias ..="cd .."
