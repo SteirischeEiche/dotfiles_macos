@@ -2,6 +2,8 @@
 brew "aspell"
 # Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
+# Bash scripts that integrate bat with various command-line tools
+brew "bat-extras"
 # Modern, maintained replacement for ls
 brew "eza"
 # Like neofetch, but much faster because written mostly in C
@@ -12,6 +14,8 @@ brew "ffmpeg"
 brew "git"
 # User-friendly cURL replacement (command-line HTTP client)
 brew "httpie"
+# Search tool like grep and The Silver Searcher
+brew "ripgrep"
 # Official tldr client written in Rust
 brew "tlrc"
 # Feature-rich command-line audio/video downloader
