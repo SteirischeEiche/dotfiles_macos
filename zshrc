@@ -1,6 +1,6 @@
 # Variablen setzen
 # Syntax-Hervorhebung von man-Seiten mit bat
-export MANPAGER="sh -c 'sed -u -e \"s/\\x1B\[[0-9;]*m//g; s/.\\x08//g\" | bat -p -lman'"
+#export MANPAGER="sh -c 'sed -u -e \"s/\\x1B\[[0-9;]*m//g; s/.\\x08//g\" | bat -p -lman'"
 export HOMEBREW_CASK_OPTS="--no-quarantine"
 
 # ZSH-Optionen ändern
@@ -16,6 +16,7 @@ alias ..="cd .."
 alias ...="cd ../.."
 alias cat="bat"
 alias spell="aspell check"
+alias man="batman"
 ## Git
 alias gadd='git add'
 alias gc="git commit -m"
