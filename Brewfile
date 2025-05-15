@@ -1,9 +1,13 @@
+# Spell checker with better logic than ispell
+brew "aspell"
 # Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
 # Modern, maintained replacement for ls
 brew "eza"
 # Like neofetch, but much faster because written mostly in C
 brew "fastfetch"
+# Play, record, convert, and stream audio and video
+brew "ffmpeg"
 # Distributed revision control system
 brew "git"
 # User-friendly cURL replacement (command-line HTTP client)
