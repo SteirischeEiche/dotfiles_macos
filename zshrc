@@ -15,6 +15,7 @@ alias x='exit'
 alias ..="cd .."
 alias ...="cd ../.."
 alias cat="bat"
+alias ac"aspell check"
 ## Git
 alias gadd='git add'
 alias gc="git commit -m"
